@@ -1,0 +1,4 @@
+Класс set
+возвращает vector uint_64t
+GetPriority()
+
